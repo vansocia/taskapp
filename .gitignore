@@ -1,4 +1,4 @@
 Pods/*
 taskapp.xcworkspace
 
-git rm --cached /Users/sakuraikanemitsu/Desktop/techacademy/taskapp/Pods/
+git rm --cached taskapp/Pods/
