@@ -1,4 +1,6 @@
 Pods/*
 taskapp.xcworkspace
 
-git rm --cached taskapp/Pods/
+git rm -rf Pods/
+git rm --cached Pods/
+
